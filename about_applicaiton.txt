@@ -2,7 +2,7 @@
 
 The example is to show that I can use complex frameworks like springboot, docker, jenkins, maven and several
 other dependenices to show i can complete micro service projects that require full stack knowledge.
-Building five seperate microService apps, I then created some automation pipeline with 
+Building four seperate microService apps, I then created some automation pipeline with 
 jenkins.  Wraping the whole application in a docker container to ensure that the automated pipeline is 
 compatable with any system.   Great example that I can also be proficent in devlopment operational techniques that are 
 nessessary tools for a productive develpment team.
